@@ -12,6 +12,6 @@
 
 * 使用原生js，动态修改table内容。
 
-## [动态表格demo](https://github.com/wobuxiangnuli/kk.git)
+## [kk漫画](https://github.com/wobuxiangnuli/kk.git)
 
 * 使用vue框架，实现一个网站的基本功能。
